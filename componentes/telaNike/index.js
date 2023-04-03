@@ -31,7 +31,7 @@ const TelaNike = () => {
         </View>
         <View style={styles.card}>
           <ImageBackground source={{ uri: 'https://imgnike-a.akamaihd.net/768x768/02568815A2.jpg' }} style={styles.imageContainer}>
-            <Text style={styles.title}>Air Jordan 5 Retro SE</Text>
+            <Text style={styles.title}>Tênis Air Jordan 5 Retro SE</Text>
           </ImageBackground>
           <Text style={styles.price}>R$ 1.799,99</Text>
         </View>

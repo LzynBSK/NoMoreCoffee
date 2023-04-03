@@ -5,35 +5,35 @@ const TelaMizuno = () => {
   return (
     <ScrollView>
       <View style={styles.cardsContainer}>
-        <View style={styles.card}>
-          <ImageBackground source={{ uri: 'https://imgnike-a.akamaihd.net/768x768/02602115A2.jpg' }} style={styles.imageContainer}>
-            <Text style={styles.title}>Tênis Air Jordan 37 Low</Text>
-          </ImageBackground>
-          <Text style={styles.price}>R$ 1.699,99</Text>
-        </View>
-        <View style={styles.card}>
-          <ImageBackground source={{ uri: 'https://imgnike-a.akamaihd.net/768x768/025980NXA3.jpg' }} style={styles.imageContainer}>
-            <Text style={styles.title}>Tênis Dunk Low Remastered</Text>
-          </ImageBackground>
-          <Text style={styles.price}>R$ 899,99</Text>
-        </View>
-        <View style={styles.card}>
-          <ImageBackground source={{ uri: 'https://imgnike-a.akamaihd.net/768x768/025979NXA2.jpg' }} style={styles.imageContainer}>
-            <Text style={styles.title}>Tênis Dunk Low Retro BTTYS</Text>
-          </ImageBackground>
-          <Text style={styles.price}>R$ 899,99</Text>
-        </View>
-        <View style={styles.card}>
-          <ImageBackground source={{ uri: 'https://imgnike-a.akamaihd.net/768x768/0254993XA2.jpg' }} style={styles.imageContainer}>
-            <Text style={styles.title}>Tênis KD15</Text>
-          </ImageBackground>
-          <Text style={styles.price}>R$ 1.199,99</Text>
-        </View>
-        <View style={styles.card}>
-          <ImageBackground source={{ uri: 'https://imgnike-a.akamaihd.net/768x768/02568815A2.jpg' }} style={styles.imageContainer}>
-            <Text style={styles.title}>Air Jordan 5 Retro SE</Text>
+      <View style={styles.card}>
+          <ImageBackground source={{ uri: 'https://imgs.search.brave.com/p7bbImy9_iqU3tF3Lth_sDxXpBvjIGnHvad8m4OGmXU/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9jZG4u/YXdzbGkuY29tLmJy/LzEwMDB4MTAwMC8x/MzI4LzEzMjgxNjEv/cHJvZHV0by8xMDg2/NDc2ODg2MDFjOGZl/ZjQ3LmpwZw' }} style={styles.imageContainer}>
+            <Text style={styles.title}>Tênis Wave Prophecy 12</Text>
           </ImageBackground>
           <Text style={styles.price}>R$ 1.799,99</Text>
+        </View>
+        <View style={styles.card}>
+          <ImageBackground source={{ uri: 'https://imgs.search.brave.com/nbB1rKeU2PvFc47NLACjIsZfbBDcWBEf882YlNJpZzY/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzA1/MjQvMjQ3MC80MTk5/L3Byb2R1Y3RzL2Qx/Z2QxODMwNTIuanBn/P3Y9MTYxNTQxNDI5/MA' }} style={styles.imageContainer}>
+            <Text style={styles.title}>Tênis Sky Medal Noh:Men</Text>
+          </ImageBackground>
+          <Text style={styles.price}>R$ 899,99</Text>
+        </View>
+        <View style={styles.card}>
+          <ImageBackground source={{ uri: 'https://imgs.search.brave.com/cx1FhixENhfwIwEaUZB8bYC38T7Sn1P2ubWFOnBtYyQ/rs:fit:900:900:1/g:ce/aHR0cHM6Ly9raW5h/c2gucnUvcGljdHVy/ZXMvcHJvZHVjdC9i/aWcvMTcxOTIzX2Jp/Zy5qcGc' }} style={styles.imageContainer}>
+            <Text style={styles.title}>Tênis Momentum 2 MID</Text>
+          </ImageBackground>
+          <Text style={styles.price}>R$ 999,99</Text>
+        </View>
+        <View style={styles.card}>
+          <ImageBackground source={{ uri: 'https://imgs.search.brave.com/1oN24ti0oZcqza16XkGHL1m_o0Iqnzl30yJo9yMboBw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/bWF4aXNwb3J0LmNv/bS9tZWRpYS9jYXRh/bG9nL3Byb2R1Y3Qv/bS9pL21penVuby1q/MWdjMjAzNC13YXZl/X3NreV9uZW8tc2Nh/cnBlLXJ1bm5pbmct/dW9tby0wNDEzOTQ5/MDFfMDRfMS5qcGc' }} style={styles.imageContainer}>
+            <Text style={styles.title}>Tênis Wave Sky 6</Text>
+          </ImageBackground>
+          <Text style={styles.price}>R$ 1.099,99</Text>
+        </View>
+        <View style={styles.card}>
+          <ImageBackground source={{ uri: 'https://imgs.search.brave.com/6hsQzapb09kKTow__GAaH6b_hq1wNEduncVP-Fkfctk/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly93d3cu/Z29hbGlubi5jb20v/Zi8xMzcwMi8xMzcw/MjMwNjhfMy9taXp1/bm8tdGh1bmRlci1i/bGFkZS5qcGc' }} style={styles.imageContainer}>
+            <Text style={styles.title}>Tênis Thunder Blade 3</Text>
+          </ImageBackground>
+          <Text style={styles.price}>R$ 649,99</Text>
         </View>
       </View>
     </ScrollView>
